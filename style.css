@@ -1,0 +1,38 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Anuphan";
+  src: url("./fonts/Anuphan-Bold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Anuphan-Bold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./fonts/Anuphan-Bold.otf") format("opentype"),
+    /* Open Type Font */ url("./fonts/Anuphan-Bold.svg") format("svg"),
+    /* Legacy iOS */ url("./fonts/Anuphan-Bold.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("./fonts/Anuphan-Bold.woff") format("woff"),
+    /* Modern Browsers */ url("./fonts/Anuphan-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Anuphan";
+  src: url("./fonts/Anuphan-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Anuphan-Regular.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./fonts/Anuphan-Regular.otf") format("opentype"),
+    /* Open Type Font */ url("./fonts/Anuphan-Regular.svg") format("svg"),
+    /* Legacy iOS */ url("./fonts/Anuphan-Regular.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("./fonts/Anuphan-Regular.woff")
+      format("woff"),
+    /* Modern Browsers */ url("./fonts/Anuphan-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Anuphan";
+  src: url("./fonts/Anuphan-Light.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Anuphan-Light.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./fonts/Anuphan-Light.otf") format("opentype"),
+    /* Open Type Font */ url("./fonts/Anuphan-Light.svg") format("svg"),
+    /* Legacy iOS */ url("./fonts/Anuphan-Light.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("./fonts/Anuphan-Light.woff") format("woff"),
+    /* Modern Browsers */ url("./fonts/Anuphan-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 300;
+  font-style: normal;
+}
